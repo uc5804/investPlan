@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+#faq {position: relative;z-index: 5;}
+#faq .wrap {width: 980px; margin: 0 auto;}
+#faq .wrap h1 {font-size: 24px;color: #5c5c5c;margin-bottom: 40px;text-align: center;} 
+#faq .wrap .faq_cont {width: 100%; height: auto; padding: 20px; border: 1px solid #5e889e; border-radius: 5px; margin-bottom: 40px;}
+#faq .wrap .faq_cont h2 {margin-bottom: 25px; font-size: 18px; color: #5e889e;}
+#faq .wrap .faq_cont p {font-size: 14px; color: #5c5c5c;}

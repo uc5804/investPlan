@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#top {background-image: url(../img/header-bg.jpg); width: 100%; height:280px ; background-size: cover; background-position: 50% 35%; position: relative;}
+#top img {position: absolute;bottom: -35%;}
+
+#about {position: relative;}
+#about .wrap {width: 980px; height: auto; margin: 0 auto; display: block;}
+#about h1 {text-align: center;;color: #5c5c5c;}
+#about h1 span {font-weight: bold;}
+
+#about .wrap .cont1 {width: 980px; height: auto; position: relative;padding-top: 60px;}
+#about .wrap .cont1 {content: ""; display: block; clear: both;}
+#about .wrap .cont1:after {content: ""; display: block;clear: both;}
+#about .wrap .cont1 .text {width: 580px; height: auto;font-size: 14px; float: left;color: #5c5c5c; font-weight: bold;}
+#about .wrap .cont1 img {width: 380px;height: 290px; float: left;padding-left: 20px;display: block; margin-top: 40px;}
+
+#about .wrap .cont2 {width: 980px; height: auto;display: block; padding-top: 50px;}
+#about .wrap .cont2 img {width: 380px;height: 290px; left: 0; padding-right: 20px;display: block;float: left; }
+#about .wrap .cont2 .text {width: 580px; height: auto;font-size: 14px; float: left;color: #5c5c5c; font-weight: bold; padding-bottom: 50px;} 
+
